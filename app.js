@@ -4,7 +4,7 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Faruk";
 
 const CARDS = [
   {
@@ -30,12 +30,6 @@ const CARDS = [
     link: "https://github.com/",
   },
   {
-    name: "Twitter",
-    icon: "ri-twitter-fill",
-    link: "https://twitter.com",
-    color: "#1DA1F2",
-  },
-  {
     name: "Dribbble",
     icon: "ri-dribbble-fill",
     link: "https://dribbble.com/",
@@ -56,11 +50,6 @@ const CARDS = [
     icon: "ri-youtube-fill",
     link: "https://www.youtube.com/",
     color: "#FF0000",
-  },
-  {
-    name: "LinkedIn",
-    icon: "ri-linkedin-fill",
-    link: "https://www.linkedin.com/",
   },
   {
     name: "Gmail",
