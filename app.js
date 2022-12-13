@@ -8,9 +8,9 @@ const NAME = "Faruk";
 
 const CARDS = [
   {
-    name: "Discord",
-    icon: "ri-discord-fill",
-    link: "https://discord.com/app",
+    name: "Startpage",
+    icon: "ri-search-fill",
+    link: "https://www.startpage.com/",
     color: "#5865F2",
   },
   {
