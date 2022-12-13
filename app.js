@@ -9,7 +9,7 @@ const NAME = "Faruk";
 const CARDS = [
   {
     name: "Startpage",
-    icon: "ri-search-fill",
+    icon: "ri-google-fill",
     link: "https://www.startpage.com/",
     color: "#5865F2",
   },
