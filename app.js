@@ -30,9 +30,9 @@ const CARDS = [
     link: "https://github.com/",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
+    name: "Gitlab",
+    icon: "ri-braces-fill",
+    link: "https://gitlab.com/",
     color: "#ea4c89",
   },
   {
